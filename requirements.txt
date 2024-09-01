@@ -1,0 +1,7 @@
+Flask
+twilio
+docx2txt
+PyPDF2
+scikit-learn
+huggingface-hub
+

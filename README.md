@@ -148,6 +148,9 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+## Demo Video
+https://www.loom.com/share/f4890d2176304a829bb9f4b378625fd3?sid=1d8670b6-47c2-4a13-bc69-f76a50042ed7
+
 ## Acknowledgments
 
 - Special thanks to [Hugging Face](https://huggingface.co/) for their amazing AI models.

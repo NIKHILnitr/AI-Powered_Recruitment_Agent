@@ -126,6 +126,10 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
 ![Screenshot 2024-09-01 121617](https://github.com/user-attachments/assets/ed723246-b494-487f-afa2-bae513ece68c)
 ![Screenshot 2024-09-01 121637](https://github.com/user-attachments/assets/2d7b393b-6ce2-4547-91c0-0471d6bd8ce4)
 ![Screenshot 2024-09-01 121649](https://github.com/user-attachments/assets/3a7bbe23-8f8b-4f43-a06d-76c22b1f9cfe)
+![WhatsApp Image 2024-09-01 at 20 04 06_ac3f37a5](https://github.com/user-attachments/assets/c3262079-e58b-456e-b4a7-adba73d0b2fc)
+![WhatsApp Image 2024-09-01 at 19 58 48_b412beac](https://github.com/user-attachments/assets/b82ffe6b-c6a4-49fb-9341-9f1943db494a)
+
+
 
 
 

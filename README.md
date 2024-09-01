@@ -111,12 +111,14 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
 │   │   └── js/
 │   ├── __init__.py
 │   ├── main.py
+├── uploads/
 ├── config.py
 ├── .env
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
 └── Screenshot/
+
 ```
 
 ## Screenshots

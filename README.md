@@ -148,6 +148,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - Special thanks to [Hugging Face](https://huggingface.co/) for their amazing AI models.
 - Thanks to [Twilio](https://www.twilio.com/) for providing the communication API.
-```
-
 

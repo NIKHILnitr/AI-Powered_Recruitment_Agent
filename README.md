@@ -33,11 +33,9 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
 
 - **Backend**: Python, Flask
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- **Database**: SQLAlchemy (with a relational database like MySQL or SQLite)
 - **AI/ML**: Hugging Face Transformers, Mistral (fine-tuned for chatbot integration)
-- **APIs**: Twilio API (for SMS notifications), Google Calendar API (for interview scheduling)
+- **APIs**: Twilio API (for SMS notifications)
 - **Version Control**: Git
-- **Deployment**: Docker (optional for containerized deployment)
 
 ## Installation and Setup
 
@@ -46,13 +44,12 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
 - Python 3.x
 - Virtual Environment (optional but recommended)
 - Twilio Account (for SMS functionality)
-- Google Cloud Account (for Calendar API)
 
 ### Steps
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-powered-recruitment-agent.git
+   git clone https://github.com/NIKHILnitr/AI-Powered_Recruitment_Agent.git
    cd ai-powered-recruitment-agent
    ```
 
@@ -73,7 +70,6 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
      TWILIO_ACCOUNT_SID=your_twilio_account_sid
      TWILIO_AUTH_TOKEN=your_twilio_auth_token
      TWILIO_PHONE_NUMBER=your_twilio_phone_number
-     GOOGLE_CALENDAR_API_KEY=your_google_calendar_api_key
      ```
 
 5. **Run the application:**
@@ -109,22 +105,27 @@ By leveraging AI, the recruitment agent helps in automating repetitive tasks, al
 .
 ├── app/
 │   ├── templates/
-│   │   ├── matchresume.html
-│   │   
+│   │   └── matchresume.html
 │   ├── static/
 │   │   ├── css/
 │   │   └── js/
 │   ├── __init__.py
 │   ├── main.py
-│   
+├── config.py
 ├── .env
 ├── requirements.txt
-└── README.md
+├── README.md
+├── LICENSE
+└── Screenshot/
 ```
 
 ## Screenshots
 
-_Add screenshots of your application here._
+![Screenshot 2024-09-01 121617](https://github.com/user-attachments/assets/ed723246-b494-487f-afa2-bae513ece68c)
+![Screenshot 2024-09-01 121637](https://github.com/user-attachments/assets/2d7b393b-6ce2-4547-91c0-0471d6bd8ce4)
+![Screenshot 2024-09-01 121649](https://github.com/user-attachments/assets/3a7bbe23-8f8b-4f43-a06d-76c22b1f9cfe)
+
+
 
 ## Future Improvements
 
@@ -147,5 +148,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Thanks to [Twilio](https://www.twilio.com/) for providing the communication API.
 ```
 
----
 

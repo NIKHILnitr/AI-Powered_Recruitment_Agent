@@ -80,8 +80,10 @@ def extract_text(file_path):
 
 # Function to send SMS notification
 def send_sms_notification(phone_number, message_body):
-    account_sid = 'ACfa64b493b25c8d19dd14b1686074eea7'
-    auth_token = 'b29b1bae9259d57e03daa699bafc7ac2'
+    # account_sid = 'ACfa64b493b25c8d19dd14b1686074eea7'
+    # auth_token = 'b29b1bae9259d57e03daa699bafc7ac2'
+    account_sid = ' Enter your sid'
+    auth_token=' Enter the token'
     client = Client(account_sid, auth_token)
 
     message = client.messages.create(
